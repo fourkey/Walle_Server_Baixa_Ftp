@@ -1,0 +1,11 @@
+C:\Users\gusta\Projetos\Walle_Service_Data\Walle_Service_Data\bin\Debug\Walle_Service_Data.exe.config
+C:\Users\gusta\Projetos\Walle_Service_Data\Walle_Service_Data\bin\Debug\Walle_Service_Data.exe
+C:\Users\gusta\Projetos\Walle_Service_Data\Walle_Service_Data\bin\Debug\Walle_Service_Data.pdb
+C:\Users\gusta\Projetos\Walle_Service_Data\Walle_Service_Data\bin\Debug\Walle_Service_Data.xml
+C:\Users\gusta\Projetos\Walle_Service_Data\Walle_Service_Data\obj\Debug\Walle_Service_Data.vbprojResolveAssemblyReference.cache
+C:\Users\gusta\Projetos\Walle_Service_Data\Walle_Service_Data\obj\Debug\Walle_Service_Data.Resources.resources
+C:\Users\gusta\Projetos\Walle_Service_Data\Walle_Service_Data\obj\Debug\Walle_Service_Data.vbproj.GenerateResource.Cache
+C:\Users\gusta\Projetos\Walle_Service_Data\Walle_Service_Data\obj\Debug\Walle_Service_Data.exe
+C:\Users\gusta\Projetos\Walle_Service_Data\Walle_Service_Data\obj\Debug\Walle_Service_Data.xml
+C:\Users\gusta\Projetos\Walle_Service_Data\Walle_Service_Data\obj\Debug\Walle_Service_Data.pdb
+C:\Users\gusta\Projetos\Walle_Service_Data\Walle_Service_Data\obj\Debug\Walle_Service_Data.Frm_Inicio.resources
